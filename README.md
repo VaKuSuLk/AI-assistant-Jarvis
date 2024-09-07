@@ -11,21 +11,15 @@ This is a piece of Ai software that understands verbal or written commands and c
 
 Skills:  The implemented voice assistant can perform the following task it can open YouTube, Gmail, Google chrome and stack overflow. Predict current time, take a photo, search Wikipedia to abstract required data, predict weather in different cities, get top headline news from Times of India and can answer computational and geographical questions too.
 
-Packages required:
+Packages utilized:
 
 To build a personal voice assistant it’s necessary to install the following packages in your system using the pip command.
 
 1) Speech recognition — Speech recognition is an important feature used in house automation and in artificial intelligence devices. The main function of this library is it tries to understand whatever the humans speak and converts the speech to text.
 
-conda install -c conda-forge speechrecognition 
-
 2) pyttsx3 — pyttxs3 is a text to speech conversion library in python. This package supports text to speech engines on Mac os x, Windows and on Linux.
 
-pip install pyttsx3
-
 3) wikipedia — Wikipedia is a multilingual online encyclopedia used by many people from academic community ranging from freshmen to students to professors who wants to gain information over a particular topic. This package in python extracts data’s required from Wikipedia.
-
-conda install -c conda-forge wikipedia
 
 4) datetime — This is an inbuilt module in python and it works on date and time
 
@@ -43,15 +37,7 @@ conda install -c conda-forge wikipedia
 
 11) wolfram alpha — Wolfram Alpha is an API which can compute expert-level answers using Wolfram’s algorithms, knowledge base and AI technology. It is made possible by the Wolfram Language.
 
-Pip install wolframalpha
-
 12) instaloader - This Api deals with loading instagram data , downloading and uploading featured images and files to it.
-
-pip install instaloader
-
-conda install -c anaconda comtypes
-
-conda install -c anaconda pyaudio
 
 
 API KEYS :
@@ -78,4 +64,3 @@ Sample commands to deal with JARVIS :
 8.	 Can I ask you something ? - what’s tan 45 digrees , what’s the distance between earth & moon
 9.	Do you have feelings for humans ?
 10.	 Can you download instagram dp ?
-11.	 Much more can be a

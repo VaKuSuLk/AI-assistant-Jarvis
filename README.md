@@ -40,14 +40,7 @@ To build a personal voice assistant it’s necessary to install the following pa
 12) instaloader - This Api deals with loading instagram data , downloading and uploading featured images and files to it.
 
 
-API KEYS :
- 
-Weather : 8ef61edcf1c576d65d836254e11ea420
-https://api.openweathermap.org/data/2.5/weather?”
 
-wolframalpha :
-
-app_id=“R2K75H-7ELALHR35X"
 
 
 
